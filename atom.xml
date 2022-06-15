@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>龍</title>
+  
+  
+  <link href="http://boyili.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://boyili.github.io/"/>
+  <updated>2022-05-29T16:11:11.137Z</updated>
+  <id>http://boyili.github.io/</id>
+  
+  <author>
+    <name>Ryu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://boyili.github.io/2022/05/30/hello-world/"/>
+    <id>http://boyili.github.io/2022/05/30/hello-world/</id>
+    <published>2022-05-29T16:11:11.137Z</published>
+    <updated>2022-05-29T16:11:11.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你真的认为iphone只是一部手机么？告诉你iphone中的惊天秘密</title>
+    <link href="http://boyili.github.io/2012/06/30/ni-zhen-de-ren-wei-iphone-zhi-shi-yi-bu-shou-ji-me-gao-su-ni-iphone-zhong-de-liang-tian-mi-mi/"/>
+    <id>http://boyili.github.io/2012/06/30/ni-zhen-de-ren-wei-iphone-zhi-shi-yi-bu-shou-ji-me-gao-su-ni-iphone-zhong-de-liang-tian-mi-mi/</id>
+    <published>2012-06-30T01:30:17.000Z</published>
+    <updated>2022-06-15T14:02:09.923Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;闲言不表，直奔主题。我是一个程序员，上周参加了一个开源软件交流大会，其实会上并没有听到什么新鲜的东西。但是在会中，偶然间听到了一个关于iphone的秘密，却着实令我震惊了，事情具体是这样的，听我慢慢道来。&lt;br&gt;大会是上午9：00点开始，主持人寒暄了一会，就由国内国外的一些</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://boyili.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://boyili.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://boyili.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
